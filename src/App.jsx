@@ -122,7 +122,7 @@ function App() {
           <CalcButton buttonLabel={4} onCLick={numbuttonClickHandler}/>
           <CalcButton buttonLabel={5} onCLick={numbuttonClickHandler}/>
           <CalcButton buttonLabel={6} onCLick={numbuttonClickHandler}/>
-          <CalcButton buttonLabel={"x"} onCLick={operationButtonClickHandler}/>
+          <CalcButton buttonLabel={"*"} onCLick={operationButtonClickHandler}/>
 
           <CalcButton buttonLabel={1} onCLick={numbuttonClickHandler}/>
           <CalcButton buttonLabel={2} onCLick={numbuttonClickHandler}/>
