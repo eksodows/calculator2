@@ -148,7 +148,7 @@ function App() {
         </div>
 
         <CalcButton
-          buttonLabel={"SHOW MY NAME"}
+          buttonLabel={"HERNANDEZ"}
           buttonClassName="NameButton"
           onCLick={nameButtonClickHandler}
         />
