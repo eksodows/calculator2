@@ -130,7 +130,7 @@ function App() {
           <CalcButton buttonLabel={'-'} onCLick={operationButtonClickHandler}/>
 
           <CalcButton 
-            buttonLabel={"CLR"} 
+            buttonLabel={"C"} 
             buttonClassName="ClrButton" 
             onCLick={clearButtonClickHandler}
           />
